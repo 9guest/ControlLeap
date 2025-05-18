@@ -33,7 +33,6 @@ ControlLeap 是开源项目，遵循 MIT 许可证。你可以自由使用和修
 
 ## 联系方式
 - **GitHub**：[https://github.com/9guest/controlleap](https://github.com/9guest/controlleap)
-- **Email**：your.email@example.com
 
 ## 致谢
 感谢所有为项目贡献代码和建议的开发者！
